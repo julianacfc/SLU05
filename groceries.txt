@@ -4,3 +4,4 @@ cheese
 chicken
 butter
 eggs
+toilet paper
